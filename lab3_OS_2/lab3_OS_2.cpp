@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <windows.h>
 
-const uint64_t blockSize = 10 * 11;
+const uint64_t blockSize = 10 * 930711;
 const uint64_t N = 100'000'000;
 const long double invN = 1.0 / N;
 
